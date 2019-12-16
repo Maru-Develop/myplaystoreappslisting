@@ -2,48 +2,48 @@
   
   "apps":
   [
-    {"appname":"Easy C Programming",
+    {"appname":"Computer Basic Shortcut Keys",
 
       "appicon":"https://raw.githubusercontent.com/madhukar3646/myplaystoreappslisting/master/My%20apps%20Appicons/easy_c.png",
 
-      "appurl":"https://play.google.com/store/apps/details?id=com.app.cprogramingapp&hl=en"
+      "appurl":"https://play.google.com/store/apps/details?id=com.shortcut.keys.computer"
 
     },
 
-    {"appname":"Birthday Photo Frames",
+    {"appname":"SwagWord - Fancy Stylish Text Fonts Generator",
 
       "appicon":"https://raw.githubusercontent.com/madhukar3646/myplaystoreappslisting/master/My%20apps%20Appicons/birthdayphotoframes.webp",
 
-      "appurl":"https://play.google.com/store/apps/details?id=com.app.birthdayphotoframes&hl=en"
+      "appurl":"https://play.google.com/store/apps/details?id=com.swag.stylish.word"
 
     },
-    { "appname":"Birthday Photo Frames Editor",
+    { "appname":"Famous English Quotes and Sayings",
 
       "appicon":"https://raw.githubusercontent.com/madhukar3646/myplaystoreappslisting/master/My%20apps%20Appicons/birthdayphotoframes.webp",
 
-      "appurl":"https://play.google.com/store/apps/details?id=com.app.birthdayphotoframeseditor&hl=en"
+      "appurl":"https://play.google.com/store/apps/details?id=com.Quotes.EnglishStatus"
 
     },
-    { "appname":"Lord Ganesh Photo Frames",
+    { "appname":"ছেলেদের ফ্যাশন, লাইফস্টাইল ও স্মার্ট হওয়ার টিপস",
 
       "appicon":"https://raw.githubusercontent.com/madhukar3646/myplaystoreappslisting/master/My%20apps%20Appicons/ganesh_photo_frames.png",
 
-      "appurl":"https://play.google.com/store/apps/details?id=com.app.lordganeshaphotoframes&hl=en"
+      "appurl":"https://play.google.com/store/apps/details?id=com.bangla.mens_lifestyle"
 
     },
-    { "appname":"Sri Ramanavami Photo Frames",
+    { "appname":"সুন্দরী মেয়ে পটানোর টিপস - Meye Potanor Tips",
 
       "appicon":"https://raw.githubusercontent.com/madhukar3646/myplaystoreappslisting/master/My%20apps%20Appicons/sriramanavami_photoframes.png",
 
-      "appurl":"https://play.google.com/store/apps/details?id=com.app.sriramanavamiphotoframes&hl=en"
+      "appurl":"https://play.google.com/store/apps/details?id=com.meye_potano.tips"
 
     },
 
-    { "appname":"Ugadi Photo Frames",
+    { "appname":"বিখ্যাত ব্যক্তিদের উক্তি - Bikkhato Bektider Ukti",
 
       "appicon":"https://raw.githubusercontent.com/madhukar3646/myplaystoreappslisting/master/My%20apps%20Appicons/ugadi_photo_frames.png",
 
-      "appurl":"https://play.google.com/store/apps/details?id=com.app.ugadiphotoframes&hl=en"
+      "appurl":"https://play.google.com/store/apps/details?id=com.BikkhatoUkti.Bangla"
 
     }
 
